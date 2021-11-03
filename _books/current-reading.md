@@ -1,7 +1,7 @@
 ---
 title: "Reading"
-collection: talks
-permalink: /talks/current-reading
+collection: books
+permalink: /books/current-reading
 date: 2021-10-08
 excerpt: 'Books that I am, have, or plan on reading'
 ---
@@ -13,9 +13,7 @@ The Science Book
 
 Code - Charles Petzold
 
-Atomic Habits - James Clear
-
-The Horror Stories of Robert E. Howard
+Lord of the Flies - William Golding
 
 ## Finished Books
 
@@ -24,6 +22,8 @@ The Horror Stories of Robert E. Howard
 A Man Called Intrepid - William Stevenson
 
 Algorithms to Live By - Brian Christian & Tom Griffiths
+
+Atomic Habits - James Clear
 
 Brave New World - Aldous Huxley
 
@@ -44,6 +44,8 @@ The Four - Scott Galloway
 The Guns of August - Barbara W. Tuchman
 
 Homo Deus - Yuval Noah Harari
+
+The Horror Stories of Robert E. Howard - Robert E. Howard
 
 How to Defeat a Demon King in Ten Easy Steps - Andrew Rowe
 
@@ -72,6 +74,8 @@ Stuff Matters - Mark Miodownik
 Superforecasting - Philip Tetlock & Dan Gardner
 
 Superintelligence - Nick Bostrom
+
+Surely You're Joking, Mr. Feynman! - Richard Feynman
 
 Surprise, Kill, Vanish - Annie Jacobsen
 

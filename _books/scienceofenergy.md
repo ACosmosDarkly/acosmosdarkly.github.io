@@ -1,14 +1,14 @@
 ---
 title: "The Science of Energy"
-collection: talks
-permalink: /talks/scienceofenergy
+collection: books
+permalink: /books/scienceofenergy
 date: 2020-06-01
 excerpt: ' '
 ---
 
 
 
-![Science of Energy Cover](/images/soeimage.jpg)
+![Science of Energy Cover](/images/books/soeimage.jpg)
 
 
 # Summary

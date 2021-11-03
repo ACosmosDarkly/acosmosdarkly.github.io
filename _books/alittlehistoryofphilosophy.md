@@ -1,13 +1,13 @@
 ---
 title: "A Little History of Philosophy"
-collection: talks
-permalink: /talks/alittlehistoryofphilosophy
+collection: books
+permalink: /books/alittlehistoryofphilosophy
 date: 2021-01-01
 excerpt: ' '
 ---
 
 
-![A Little History of Philosophy Cover](/images/alhop.jpg)
+![A Little History of Philosophy Cover](/images/books/alhop.jpg)
 
 # Summary
 

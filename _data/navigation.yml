@@ -4,16 +4,16 @@ main:
 #    url: /publications/
 
   - title: "Books"
-    url: /talks/    
+    url: /books/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
   - title: "Write-ups"
-    url: /Protfolio/
+    url: /writeups/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
     
   - title: "About"
     url: /cv/
