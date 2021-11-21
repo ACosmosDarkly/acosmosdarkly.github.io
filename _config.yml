@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"
+    colorscheme          : # "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -56,8 +56,8 @@ atom_feed:
 # yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+# username               : &twitter
 # facebook:
 # username               :
 # app_id                 :
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Gabriel"
   avatar           : "profile.jpg"
-  bio              : "We see as through a cosmos, darkly"
+  bio              : "We see through a cosmos, darkly"
   location         : "Albuquerque"
 #  employer         :
 #  pubmed           : 
