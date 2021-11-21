@@ -2,7 +2,7 @@
 title: "Reading"
 collection: books
 permalink: /books/current-reading
-date: 2021-10-08
+date: 2122-06-01
 excerpt: 'Books that I am, have, or plan on reading'
 ---
 

@@ -16,7 +16,7 @@ main:
     url: /posts/
     
   - title: "About"
-    url: /cv/
+    url: /about/
     
 #  - title: "Guide"
 #    url: /markdown/

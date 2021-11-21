@@ -12,7 +12,7 @@ Atomic Habits is about habits, good and bad, and understanding habit formation a
 
 The book covers the why and how habits are formed, that cues and stimuli that are the basis for habit formation, and the laws of behavior change that can be used to modify or quit habits.
 
-## Ideas
+## Concepts
 
 - Goals and systems
 
@@ -48,3 +48,7 @@ The book covers the why and how habits are formed, that cues and stimuli that ar
 ## Personal Thoughts
 
 Honestly, I'm not doing this book justice, and it's one of those audiobooks where I know I'll have to pick up a physical copy. I felt like every other sentence had something in it that I could write down and think back on later. It lays out how habit formation works and the biological processes behind it that make it so. If you're even remotely curious about how habits form, and how to change your own, then I highly recommend it.
+
+
+
+All quotes above from Atomic Habits are copyright 2018 &copy; by James Clear.
