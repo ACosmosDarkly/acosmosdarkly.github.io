@@ -9,11 +9,17 @@ excerpt: 'Books that I am, have, or plan on reading'
 
 ## Currently Reading
 
+The Lost Gate - Orson Scott Card
+
+The Autobiography of Benjamin Franklin - Benjamin Franklin
+
 The Science Book
 
 Code - Charles Petzold
 
-Lord of the Flies - William Golding
+Rationality - Steven Pinker
+
+The Age of Surveillance Capitalism - Shoshana Zuboff
 
 ## Finished Books
 
@@ -50,6 +56,8 @@ The Horror Stories of Robert E. Howard - Robert E. Howard
 How to Defeat a Demon King in Ten Easy Steps - Andrew Rowe
 
 Human Hacking - Christopher Hadnagy & Seth Schulman
+
+Lord of the Flies - William Golding
 
 Nineteen Eighty-Four - George Orwell
 
@@ -91,16 +99,6 @@ Your Deceptive Mind: A Scientific Guide to Critical Thinking Skills - Steven Nov
 
 ## Future Reading 
 
-The Age of Surveillance Caplitalism - Shoshana Zuboff
-
-The Autobiography of Benjamin Franklin - Benjamin Franklin
-
 Hacking: The Art of Exploitation - Jon Erickson
 
-Lord of the Flies - William Golding
-
-The Lost Gate - Orson Scott Card
-
 Practical Malware Analysis - Sikorski Honig
-
-

@@ -3,6 +3,7 @@ title: "Atomic Habits"
 collection: books
 permalink: /books/atomichabits
 date: 2021-11-10
+excerpt: ' '
 ---
 
 
