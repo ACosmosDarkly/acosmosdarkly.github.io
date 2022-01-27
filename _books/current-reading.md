@@ -23,7 +23,7 @@ The Age of Surveillance Capitalism - Shoshana Zuboff
 
 ## Finished Books
 
-[A Little History of Philosophy](/books/alittlehistoryofphilosophy/) - Nigel Warburton
+[A Little History of Philosophy](/books/alittlehistoryofphilosophy) - Nigel Warburton
 
 A Man Called Intrepid - William Stevenson
 
@@ -73,7 +73,7 @@ Sandworm - Andy Greenberg
 
 Sapiens - Yuval Noah Harari
 
-[The Science of Energy](/books/scienceofenergy/) - Michael E. Wysession & The Great Courses
+[The Science of Energy](/books/scienceofenergy) - Michael E. Wysession & The Great Courses
 
 Skunk Works - Ben R. Rich & Leo Janos
 
