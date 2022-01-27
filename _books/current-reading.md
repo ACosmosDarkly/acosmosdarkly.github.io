@@ -23,13 +23,13 @@ The Age of Surveillance Capitalism - Shoshana Zuboff
 
 ## Finished Books
 
-[A Little History of Philosophy](/Books/Summaries/alittlehistoryofphilosophy/) - Nigel Warburton
+[A Little History of Philosophy](/books/alittlehistoryofphilosophy/) - Nigel Warburton
 
 A Man Called Intrepid - William Stevenson
 
 Algorithms to Live By - Brian Christian & Tom Griffiths
 
-Atomic Habits - James Clear
+[Atomic Habits](/books/atomichabits) - James Clear
 
 Brave New World - Aldous Huxley
 
@@ -73,7 +73,7 @@ Sandworm - Andy Greenberg
 
 Sapiens - Yuval Noah Harari
 
-[The Science of Energy](/Books/Summaries/scienceofenergy/) - Michael E. Wysession & The Great Courses
+[The Science of Energy](/books/scienceofenergy/) - Michael E. Wysession & The Great Courses
 
 Skunk Works - Ben R. Rich & Leo Janos
 
