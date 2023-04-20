@@ -2,7 +2,7 @@
 title: 'Hardware Hacking 1'
 date: 2021-01-07
 permalink: /posts/2021/01/hwhacking/
-excerpt: 'The other day I made my first attempt at figuring out how to get started with hardware hacking. I try to get practice with various techniques and platforms wherever I can whether it be websites and cross-site scripting or command injection, or like this post will try to show, how I got started figuring out how to see the inner working of hardware or embedded systems.'
+excerpt: The other day I made my first attempt at figuring out how to get started with hardware hacking...
 ---
 
 The other day I made my first attempt at figuring out how to get started with hardware hacking. I try to get practice with various techniques and platforms wherever I can whether it be websites and cross-site scripting or command injection, or like this post will try to show, how I got started figuring out how to see the inner working of hardware or embedded systems. Before I start though I should say that I got a lot of help from looking at posts from @cybergibbons and [his website](https://cybergibbons.com/). The hardest part about getting started was knowing what exactly was needed to start. His posts and videos on the "how" of it was invaluable to taking even the smallest step.

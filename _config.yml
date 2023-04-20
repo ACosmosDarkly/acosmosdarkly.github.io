@@ -11,10 +11,10 @@ title                    : "Gabriel Penner"
 title_separator          : "-"
 name                     : &name "Gabriel Penner"
 description              : &description "Information Security Professional"
-url                      : https://www.gabrielpenner.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://www.gabrielpenner.net 
+baseurl                  : "" # the subpath, e.g. "/blog"
 repository               : "ACosmosDarkly/acosmosdarkly.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -56,7 +56,7 @@ atom_feed:
 # yandex_site_verification :
 
 # Social Sharing
-#twitter:
+# twitter:
 # username               : &twitter
 # facebook:
 # username               :
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Gabriel"
   avatar           : "profile.jpg"
-  bio              : "We see through a cosmos, darkly"
+  bio              : "We see as through the cosmos, darkly"
   location         : "Albuquerque"
 #  employer         :
 #  pubmed           : 
@@ -102,7 +102,7 @@ author:
 #  instagram        :
 #  impactstory      : 
 #  lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gabrieldpenner/"
 #  orcid            : 
 #  pinterest        :
 #  soundcloud       :
@@ -175,12 +175,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
   writeups:
     output: true
     permalink: /:collection/:path/
@@ -197,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -208,14 +208,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -224,7 +224,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _writeups
@@ -233,7 +233,7 @@ defaults:
       type: writeups
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _books
@@ -242,7 +242,7 @@ defaults:
       type: books
     values:
       layout: books
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS

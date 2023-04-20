@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Background"
+layout: single
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.A.S. Business Administration, Wayland Baptist University, 2012
 * B.S. Cybersecurity and Information Assurance, Western Governors University, 2019
+* B.A.S. Business Administration, Wayland Baptist University, 2012
 
 Certifications
 ======
@@ -26,23 +25,24 @@ Certifications
 * CompTIA Network+
 * CompTIA Security+
 * CompTIA Linux+
-* Linux Profesional Institute LPIC-1
 
 Work experience
 ======
+* Science Applications International Corporation
+  * Windows System Administrator, Principal Cybersecurity Engineer, Senior Network Engineer
+  * Experience: SIEM configuration and tuning, Windows desktop and server administration, security baseline analysis, PowerShell and Python automation, Cisco routing and switching
+
 * The Kemtah Group
   * Field Services Technician I & II
   * Duties included: Support and maintenance of Windows OS software and hardware resources.
-
-* Science Applications International Corporation
-  * Windows System Administrator, Cyber Security Analyst, Senior Network Engineer
-  * Duties included: Windows desktop and server administration, security baseline analysis, PowerShell and Python automation, and Cisco routing and swtiching
   
 Skills
 ======
+* Tenable Security Center
+* SolarWinds Security Event Manager
+* McAfee ePO
 * Windows System Administration
 * Windows PowerShell
 * Python
 * Cisco Nexus/Catalyst
 * Palo Alto NGFW
-
