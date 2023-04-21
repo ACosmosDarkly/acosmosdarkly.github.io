@@ -1,7 +1,7 @@
 ---
 title: "HTB - Cap"
 collection: writeups
-permalink: /writeups/comingsoon
+permalink: /writeups/htbcap
 date: 2021-11-20
 excerpt: ''
 ---
@@ -15,7 +15,7 @@ Nmap returns ports open for File Transfer Protocol (FTP/21), Secure Shell (SSH/2
 
 ![1](/images/writeups/cap/Cap2.JPG)
 
-I also run `gobuster` to get a list of directories from the webserver. Gobuster returns three directories: data, ip, and netstat. Data has an HTTP status of `302 Found` that means ["the URI of the requested resource has been changed temporarily"](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/302). This actually has some interesting implications which I'll talk about in a different write-up. I will definitely be checking in on that directory.
+I also run gobuster to get a list of directories from the webserver. Gobuster returns three directories: data, ip, and netstat. Data has an HTTP status of 302 Found that means ["the URI of the requested resource has been changed temporarily"](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/302). This actually has some interesting implications which I'll talk about in a different write-up. I will definitely be checking in on that directory.
 
 ![2](/images/writeups/cap/Cap10.JPG)
 
@@ -51,7 +51,7 @@ Checking `sudo -l` to list available sudo commands returns nothing, nathan has n
 
 ![8](/images/writeups/cap/Cap8.JPG)
 
-Python3.8 has the capability `cap_setuid`, and reading the man page for `capabilities` indicates that this allows for arbitrary manipulation of process UIDs. This is how we're going to get root.
+Python3.8 has the capability `cap_setuid`, and reading the man page for capabilities indicates that this allows for arbitrary manipulation of process UIDs. This is how we're going to get root.
 
 I use a python script taken from the [GTFOBins](https://gtfobins.github.io/gtfobins/python/) playbook, and include the `setuid` capability available to python to elevate that shell to root (UID 0)
 
