@@ -10,8 +10,8 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  margin-left: 19em;
-  margin-right: 19em;
+  width: 65%;
+  margin: 0 auto;
 
   &__inner-wrap {
     @include container;
