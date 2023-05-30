@@ -12,13 +12,13 @@ I recently completed a CTF challenge on a site that covered some of the basics o
 
 The challenge comes as a downloadable zip file containing a few artifacts, one of those being the memory image in a *.elf* format. An ELF file, also known as the *Executable and Linkable Format*, is a command file standard for certain executables, core dumps, or other Unix specific binaries[^1]. The other two files contain some supporting information regarding the memory dump, but since this isn't a write-up in the traditional sense I'm going to omit them. 
 
-![](/images/writeups/mem1/rem1.jpg)
+![](/images/writeups/mem1/rem1.JPG)
 
 Something important to note about Volatility is that the older version required you to use an Operating System "profile" in order to scan the memory dump. This could be a bit of a headache to get around if you're learning Volatility for the first time. The newer Volatility 3 Framework doesn't have this requirement, so we can skip it. If you were to need a profile type, the older Volatility has a the [imageinfo](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#imageinfo) command that will give you it's suggested OS profile. Just a tip!
 
 At this point I looked at the supporting files and got an idea for what I was dealing with. Using the Volatility 3 Framework we can check the processes that were running when the image file was taken. The plugins `windows.psscan.PsScan`, `windows.pslist.PsList`, and `windows.pstree.PsTree` basically provide the same information with slight variations. We'll run `PsTree` to get the processes that were running, and the parent/child relationships between the processes. An initial scan of the processes reveals a potential red flag, PowerShell.
 
-![](/images/writeups/mem1/rem2.jpg)
+![](/images/writeups/mem1/rem2.JPG)
 
 ## Digging Deeper
 
@@ -26,7 +26,7 @@ PowerShell is generally considered safe by Windows because it's specifically a W
 
 During the initial analysis of the files provided there was a reference to a PDF document that was downloadable from an external source. I assume it has something to do with our PowerShell command here. Luckily Volatility has a plugin for that too and it's called `windows.filescan.FileScan`. We just run the plugin and grep for the file name and see what comes up, and guess what, we get some hits! The file listings contain memory addresses, so we can use `windows.dumpfiles.DumpFiles` to dump whatever is at that address. 
 
-![](/images/writeups/mem1/rem3.jpg)
+![](/images/writeups/mem1/rem3.JPG)
 
 The file dump gives us a couple files to choose from that contain data from the memory address being dumped. Sure enough we have a super suspicious PowerShell command running with the *hidden* argument (to prevent the PowerShell window from showing up when the command is run), setting the Execution Policy to Bypass to allow scripts to run, and then Base64 text encoding. Yea, nothing happening here just a bunch of encoded text being passed as a PowerShell command.
 
