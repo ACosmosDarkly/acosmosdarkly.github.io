@@ -9,6 +9,8 @@ excerpt: 'Books that I am, have, or plan on reading'
 
 ## Currently Reading
 
+Understanding Cognitive Biases - Alexander B. Swan & The Great Courses 
+
 Do Androids Dream of Electric Sheep - Philip K. Dick
 
 The Science Book
@@ -97,6 +99,4 @@ Your Deceptive Mind: A Scientific Guide to Critical Thinking Skills - Steven Nov
 
 ## Future Reading 
 
-Hacking: The Art of Exploitation - Jon Erickson
-
-Practical Malware Analysis - Sikorski Honig
+Revalation Space - Alastair Reynolds
