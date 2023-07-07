@@ -2,24 +2,20 @@
 title: "Reading"
 collection: books
 permalink: /books/current-reading
-date: 2122-06-01
+date: 2023-07-07
 excerpt: 'Books that I am, have, or plan on reading'
 ---
 
 
 ## Currently Reading
 
-The Lost Gate - Orson Scott Card
-
-The Autobiography of Benjamin Franklin - Benjamin Franklin
+Do Androids Dream of Electric Sheep - Philip K. Dick
 
 The Science Book
 
 Code - Charles Petzold
 
 Rationality - Steven Pinker
-
-The Age of Surveillance Capitalism - Shoshana Zuboff
 
 ## Finished Books
 
@@ -58,6 +54,8 @@ How to Defeat a Demon King in Ten Easy Steps - Andrew Rowe
 Human Hacking - Christopher Hadnagy & Seth Schulman
 
 Lord of the Flies - William Golding
+
+The Lost Gate - Orson Scott Card
 
 Nineteen Eighty-Four - George Orwell
 
