@@ -18,7 +18,7 @@ Off the top of my head, I recalled a couple of checks I could perform: `ps aux` 
 
 I got a few suggestions and checked out `/proc/{PID}/status` to see what the state of the process was. To my surprise, the RPM process was sleeping! 
 
-![proc file process example](/images/posts/strace/LinuxProc1.JPG)
+![proc file process example]({{/images/posts/strace/LinuxProc1.JPG" | absolute_url }})
 
 (example process above. Note the "sleeping" state of the process)
 
