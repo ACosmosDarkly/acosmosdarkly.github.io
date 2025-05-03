@@ -7,14 +7,14 @@ excerpt: "I'm just over halfway done with OMSCS. Here are my thoughts on the pro
 
 ## Overview
 
-In celebration of being (over) 50% done with the program I decided to do a little review of my thoughts so far. I completed two courses this Spring 2025 semester, those being Software Development Process (SDP) and Artificial Intelligence, Ethics, and Society (AIES), bringing me past the 50% mark to 6 out of 10 courses completed. My specialization is in *Computing Systems* and the course requirements can be found [here](https://omscs.gatech.edu/specialization-computing-systems). The courses I've taken so far are:
+In celebration of being (over) 50% done with the program I decided to do a little review of my thoughts so far. I completed two courses this Spring 2025 semester, those being Software Development Process (SDP) and Artificial Intelligence, Ethics, and Society (AIES), bringing me past the 50% mark to 6 out of 10 courses completed. My specialization is in *Computing Systems* and the requirements for it can be found [here](https://omscs.gatech.edu/specialization-computing-systems). The courses I've taken so far are:
 
-- Human Computer Interaction (HCI)
-- Graduate Introduction to Operating Systems (GIOS)
-- Computer Networks (CN)
-- Advanced Topics in Malware Analysis (AMA)
-- Software Development Process (SDP)
-- Artificial Intelligence, Ethics, and Society (AIES)
+- [Human Computer Interaction (HCI)](https://omscs6750.gatech.edu/)
+- [Graduate Introduction to Operating Systems (GIOS)](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
+- [Computer Networks (CN)](https://omscs.gatech.edu/cs-6250-computer-networks)
+- [Advanced Topics in Malware Analysis (AMA)](https://omscs.gatech.edu/cs-6747-advanced-malware-analysis)
+- [Software Development Process (SDP)](https://omscs.gatech.edu/cs-6300-software-development-process)
+- [Artificial Intelligence, Ethics, and Society (AIES)](https://omscs.gatech.edu/cs-6603-ai-ethics-and-society)
 
 I've learned a great deal from this program so far, and it is as challenging as I was hoping it would be. I'll give a quick rundown of each course and my thoughts on each, but I'll save the in-depth course reviews for a later time. The courses are listed in the order that I took them starting with the Fall 2023 semester.
 ## Human Computer Interaction (HCI)
